@@ -29,4 +29,6 @@ enjoy pain-free VR desktop without crashing to any StreamVR bugs!
 
 This program provide VR depth immersive and excitment automatically.
 
+Patent claim: work for a physical glass too
+
 Author : Adair Chan
